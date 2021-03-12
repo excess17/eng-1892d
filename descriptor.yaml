@@ -1,0 +1,6 @@
+code: eng1892d
+description: eng1892d
+bundle-type: system-level-bundle
+components:
+  fragments:
+    - fragments/fragment1-descriptor.yaml
